@@ -1,0 +1,1 @@
+Welcome userThis text will be appended to the file.
